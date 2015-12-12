@@ -28,7 +28,7 @@ namespace MonoTest2
         {
             // TODO: Add your initialization logic here
 
-            graphics.PreferredBackBufferWidth = (int) ScreenManager.Instance.Dimentions.X;
+            graphics.PreferredBackBufferWidth = (int)ScreenManager.Instance.Dimentions.X;
             graphics.PreferredBackBufferHeight = (int)ScreenManager.Instance.Dimentions.Y;
             graphics.ApplyChanges();
 

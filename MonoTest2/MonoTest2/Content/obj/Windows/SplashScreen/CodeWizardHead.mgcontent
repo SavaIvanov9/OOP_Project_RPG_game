@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/vivacom.bg/Desktop/MonoTest2/MonoTest2/Content/SplashScreen/CodeWizardHead.png</SourceFile>
+  <SourceFile>C:/Users/vivacom.bg/Desktop/OOP-RPG-Game/OOP_Project_RPG_game/MonoTest2/MonoTest2/Content/SplashScreen/CodeWizardHead.png</SourceFile>
   <SourceTime>2015-11-10T20:36:29.513397+02:00</SourceTime>
-  <DestFile>C:/Users/vivacom.bg/Desktop/MonoTest2/MonoTest2/Content/bin/Windows/SplashScreen/CodeWizardHead.xnb</DestFile>
-  <DestTime>2015-12-12T18:46:18.4724956+02:00</DestTime>
+  <DestFile>C:/Users/vivacom.bg/Desktop/OOP-RPG-Game/OOP_Project_RPG_game/MonoTest2/MonoTest2/Content/bin/Windows/SplashScreen/CodeWizardHead.xnb</DestFile>
+  <DestTime>2015-12-12T20:56:39.8695906+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2015-04-29T20:14:44+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

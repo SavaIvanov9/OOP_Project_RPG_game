@@ -11,12 +11,12 @@ namespace MonoTest2
     public class SplashScreen : GameScreen
     {
         Texture2D image;
-        string path;
+        public string Path;
         public override void LoadContent()
         {
             base.LoadContent();
-            path = "SplashScreen/CodeWizardHead";
-            image = content.Load<Texture2D>(path);
+            //Path = "SplashScreen/CodeWizardHead";
+            image = content.Load<Texture2D>(Path);
         }
 
         public override void UnloadContent()
